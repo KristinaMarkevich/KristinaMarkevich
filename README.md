@@ -1,4 +1,23 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif" width="480" height="270"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/kristina-markevich-168242271/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/omoroshk">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+---
+### About Me :
+- 🌱 I’m currently studying quality assurance at Vadim's Ksendzov QA courses and looking for a job.
+- 👯 I'm practicing on some training projects.
+
+
+
+
 
 <!--
 **KristinaMarkevich/KristinaMarkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
