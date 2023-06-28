@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/kristina-markevich-168242271/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://instagram.com/paxiella?igshid=MzNlNGNkZWQ4Mg==">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge"/>
+  </a>
   <a href="https://t.me/omoroshk">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -14,7 +17,6 @@
 ### About Me :
 - 🌱 I’m currently studying quality assurance at Vadim's Ksendzov QA courses and looking for a job.
 - 👯 I'm practicing on some training projects.
-
 
 
 
