@@ -15,7 +15,7 @@
 
 ---
 ### About Me :
-- 🌱 I’m currently studying quality assurance at Vadim's Ksendzov QA courses and looking for a job.
+- 🌱 I’m currently studying quality assurance at RedRover School and looking for a job.
 - 👯 I'm practicing on some training projects.
 
 
