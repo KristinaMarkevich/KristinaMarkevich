@@ -15,7 +15,7 @@
 
 ---
 ### About Me :
-- 🌱 I’m currently studying quality assurance at RedRover School and looking for a job.
+- 🌱 I’m currently studying quality assurance and looking for an internship or a job.
 - 👯 I'm practicing on some training projects.
 
 
