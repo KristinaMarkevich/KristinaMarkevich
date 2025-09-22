@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif" width="480" height="270"/>
-</div>
+</div>    
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kristina-markevich-168242271/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
