@@ -17,7 +17,8 @@
 ### About Me :
 - 🌱 I’m currently studying quality assurance and looking for an internship or a job.
 - 👯 I'm practicing on some training projects.
-
+---
+**Some Tools I Use**
 
 
 
@@ -35,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
