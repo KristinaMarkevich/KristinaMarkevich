@@ -13,7 +13,7 @@
   </a>
 </div>
 
----
+
 ### About Me :
 - 🌱 I’m currently studying quality assurance and looking for an internship or a job.
 - 👯 I'm practicing on some training projects.
@@ -31,7 +31,7 @@
 ### **Test artifacts**
 <li><a href="https://github.com/KristinaMarkevich/GitBash-commands">Bash</a> – bash commands </li>
 <li><a href="https://github.com/KristinaMarkevich/GitHub_hm_2">Git</a> – basic version control commands</li>
-
+<li><a href="https://github.com/KristinaMarkevich/Bug_repors_for_SOBASEDNIK">Web testing</a> –  manual test cases and bug reports</li>
 
 <!--
 **KristinaMarkevich/KristinaMarkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
