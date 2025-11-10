@@ -28,6 +28,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/>
 </p>
 
+### **Test artifacts**
+<li><a href="https://github.com/KristinaMarkevich/GitBash-commands">Bash</a> – bash commands </li>
+<li><a href="https://github.com/KristinaMarkevich/GitHub_hm_2">Git</a> – basic version control commands</li>
+
 
 <!--
 **KristinaMarkevich/KristinaMarkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
