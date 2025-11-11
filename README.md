@@ -10,7 +10,7 @@
 
 
 ### About Me :
-- 🌱 I’m currently studying quality assurance and looking for an internship or a job.
+- 🌱 I'm now studying quality assurance and seeking for an internship or job.
 - 👯 I'm practicing on some training projects.
 ---
 ### **Some Tools I Use**
