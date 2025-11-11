@@ -26,7 +26,7 @@
 ### **Test artifacts**
 - <a href="https://github.com/KristinaMarkevich/GitBash-commands">Bash</a> – bash commands 
 - <a href="https://github.com/KristinaMarkevich/GitHub_hm_2">Git</a> – basic version control commands
-- <a href="https://github.com/KristinaMarkevich/Bug_repors_for_SOBASEDNIK">Web testing</a> –  manual test cases and bug reports
+- <a href="https://github.com/KristinaMarkevich/Bug_repors_for_SOBASEDNIK">Web testing</a> –  manual test cases and bug reports (early practice)
 
 <!--
 **KristinaMarkevich/KristinaMarkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
