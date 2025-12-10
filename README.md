@@ -12,7 +12,7 @@
 ### About Me :
 - 🌱 I'm now studying quality assurance and seeking for an internship or job.
 - 👯 I'm practicing on some training projects.
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I follow CS2 sport and I'm obsessed with coca-cola zero. 
 ---
 ### **Some Tools I Use**
 <p align="center">
@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="MySQL" alt="MySQL" width="40" height="40"/>
+   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
 </p>
 
 ### **Test artifacts**
