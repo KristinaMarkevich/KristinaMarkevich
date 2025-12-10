@@ -25,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="MySQL" alt="MySQL" width="40" height="40"/>
    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
-  <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" title="Swagger" alt="Swagger" width="40" height="40"/>
+  <img src="https://archive.org/download/github.com-swagger-api-swagger-ui_-_2021-09-30_17-43-44/cover.jpg" title="Swagger" alt="Swagger" width="40" height="40"/>
 </p>
 
 ### **Test artifacts**
