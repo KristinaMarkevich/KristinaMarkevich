@@ -10,7 +10,7 @@
 
 
 ### About Me :
-- 🌱 At the momemnt I'm studying quality assurance and seeking for an internship or a job.
+- 🌱 Currently I'm studying quality assurance and seeking for an internship or a job.
 - 👯 I'm practicing on some training projects.
 - ⚡ Fun fact: I follow CS2 sport and I'm obsessed with coca-cola zero. 
 ---
