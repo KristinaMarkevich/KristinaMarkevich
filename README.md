@@ -35,6 +35,7 @@
 - <a href="https://github.com/KristinaMarkevich/Bug_repors_for_SOBASEDNIK">Web testing</a> –  manual test cases and bug reports (early practice)
 - <a href="https://github.com/KristinaMarkevich/Test-tasks/blob/main/charles-proxy.md">Charles Proxy</a> – use of the primary tools
 - <a href="https://github.com/KristinaMarkevich/SQL">SQL</a> - sql queries and exercises
+- <a href="https://github.com/KristinaMarkevich/Postman and JS">Postman-and-JS</a> - exploring Postman and auto-tests in Postman
 
 <!--
 **KristinaMarkevich/KristinaMarkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
