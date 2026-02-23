@@ -34,7 +34,7 @@
 - <a href="https://github.com/KristinaMarkevich/GitHub_hm_2">Git</a> – basic version control commands
 - <a href="https://github.com/KristinaMarkevich/Test-tasks/blob/main/charles-proxy.md">Charles Proxy</a> – use of the primary tools
 - <a href="https://github.com/KristinaMarkevich/SQL">SQL</a> - sql queries and exercises
-- <a href="https://github.com/KristinaMarkevich/Postman and JS">Postman-and-JS</a> - exploring Postman and auto-tests in Postman
+- <a href="https://github.com/KristinaMarkevich/Postman-and-JS">Postman-and-JS</a> - exploring Postman and auto-tests in Postman
 
 <!--
 **KristinaMarkevich/KristinaMarkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
