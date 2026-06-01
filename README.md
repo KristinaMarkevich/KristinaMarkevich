@@ -22,7 +22,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStICbGzwS7jqyBRkrao12XKvC4Z0a5zuYezA&s" title="Charles Proxy" alt="Git" width="40" height="40"/>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/bash.png" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
