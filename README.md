@@ -10,8 +10,8 @@
 
 
 ### About Me :
-- 🌱 Currently I'm studying quality assurance and seeking for an internship or a job.
-- 👯 I'm practicing on some training projects.
+- 🌱 Currently I'm working as a Manual QA and looking forward to get deeper.
+- 👯 Working together developers and other QA engineers within the team to enhance quality all the way through the development process.
 - ⚡ Fun fact: I follow CS2 sport and I'm obsessed with coca-cola zero. 
 ---
 ### **Some Tools I Use**
