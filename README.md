@@ -12,7 +12,8 @@
 ### About Me :
 - 🌱 Currently I'm working as a Manual QA and looking forward to get deeper.
 - 👯 Working together developers and other QA engineers within the team to enhance quality all the way through the development process.
-- ⚡ Fun fact: I follow CS2 sport and I'm obsessed with coca-cola zero. 
+- ⚡ Fun fact: I follow CS2 sport and I'm obsessed with coca-cola zero.
+- ♨️ Learning Java.
 ---
 ### **Some Tools I Use**
 <p align="center">
@@ -35,6 +36,7 @@
 - <a href="https://github.com/KristinaMarkevich/Test-tasks/blob/main/charles-proxy.md">Charles Proxy</a> – use of the primary tools
 - <a href="https://github.com/KristinaMarkevich/SQL">SQL</a> - sql queries and exercises
 - <a href="https://github.com/KristinaMarkevich/Postman-and-JS">Postman-and-JS</a> - exploring Postman and auto-tests in Postman
+   <a href="https://github.com/KristinaMarkevich/Java-practice</a> - learning Java and automation
 
 <!--
 **KristinaMarkevich/KristinaMarkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
