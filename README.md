@@ -28,6 +28,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://archive.org/download/github.com-swagger-api-swagger-ui_-_2021-09-30_17-43-44/cover.jpg" title="Swagger" alt="Swagger" width="40" height="40"/>
+  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2025/11/IntelliJ_IDEA_icon.svg.png" title="IntelliJ_IDEA" alt="IntelliJ_IDEA" width="40" height="40"/>
 </p>
 
 ### **Test artifacts**
