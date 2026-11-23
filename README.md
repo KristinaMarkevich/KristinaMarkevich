@@ -28,7 +28,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://archive.org/download/github.com-swagger-api-swagger-ui_-_2021-09-30_17-43-44/cover.jpg" title="Swagger" alt="Swagger" width="40" height="40"/>
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2025/11/IntelliJ_IDEA_icon.svg.png" title="IntelliJ_IDEA" alt="IntelliJ_IDEA" width="40" height="40"/>
+   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2025/11/IntelliJ_IDEA_icon.svg.png" title="IntelliJ_IDEA" alt="IntelliJ_IDEA" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP3zen9o6zicmqQp-oEmAXidUkt4ZuT2dwEkYjKe5c-ymOMDSq--4T05M&s=10" title="Java" alt="Java" width="40" height="40"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTga0YCsAKwQPyIEevCwjXlYwcePwc0eVRIDvOB9z5cYjAdcD0VgKLa9iI&s=10" title="TestRigor" alt="TestRigor" width="40" height="40"/>
+   <img src="https://img.stackshare.io/service/40438/default_a9d9f8f8546d65b5f12a32106e6d03e6921e11fa.png" title="Testops" alt="Testops" width="40" height="40"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb3lJcZ57mSTAL11BtJiSrCAMnSF8EWm7NYUwUK7bgyA&s=10" title="Testrail" alt="Testrail" width="40" height="40"/>
 </p>
 
 ### **Test artifacts**
